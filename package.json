@@ -1,0 +1,16 @@
+{
+  "name": "hello-world-node",
+  "version": "1.0.0",
+  "description": "Hello World Node.js app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.16.3",
+    "request": "2.87.0",
+    "moment": "2.19.1",
+    "libxmljs": "0.18.0",
+    "sqlite3": "3.1.12"
+  }
+}
